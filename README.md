@@ -1,6 +1,6 @@
 # Metaheuristic Optimization
 
-In a complex world, where perfection is often non-existant, Metaheuristics provide 'acceptable' solutions in a reasonable timeframe for solving hard and complex problems in science and engineering.
+In a complex world, where perfection is often non-existent, Metaheuristics provide 'acceptable' solutions in a reasonable timeframe for solving hard and complex problems in science and engineering.
 
 The Metaheuristic Optimization Library hosts my code base for the various Metaheuristic Optimization problems and exercises in the real world that I have solved and completed as part of my work on optimization.
 
