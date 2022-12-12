@@ -10,6 +10,6 @@ It has to be noted that metaheuristics do not guarantee the optimality of the ob
 # The Repository
 The repository for Metaheuristic Optimization is like a folder or storage space that contains all the files such as code, documentation, images, and more related to Metaheuristic Optimization problems. It also tracks every change that I or my team makes to each file.
 
-It is always possible go back to previous versions of we make any mistakes.
+It is always possible go back to previous versions if we make any mistakes.
 
 So, feel free, be more human, to make mistakes and to learn from them.
